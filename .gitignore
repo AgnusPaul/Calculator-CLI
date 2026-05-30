@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+
+# Calculator history (user-specific)
+.calculus_history.json
+
+# VS Code (keep .vscode/ folder but ignore user-specific files)
+.vscode/*.log
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+
+# Distribution
+dist/
+build/
+*.egg-info/

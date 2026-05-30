@@ -1,0 +1,30 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "▶  Run Calculator",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/calculator.py",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "🧪  Run All Tests",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/test_calculator.py",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "🔍  Debug Calculator",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/calculator.py",
+      "console": "integratedTerminal",
+      "justMyCode": false,
+      "stopOnEntry": false
+    }
+  ]
+}
