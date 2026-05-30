@@ -1,7 +1,9 @@
 # ⚡ CALCULUS — Advanced Calculator v2.0
 
 > A beautifully crafted calculator in two flavours: a feature-rich **Python CLI** and a stunning **web UI** — both fully functional, zero dependencies.
-
+## 🌐 Live Demo
+👉 [Open Web Calculator](https://agnuspaul.github.io/Calculator-CLI/)
+---
 ---
 
 ## 📁 Project Structure
